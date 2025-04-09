@@ -7,7 +7,7 @@ A modular Node.js REST API starter with versioned routes, JWT authentication, mi
 ## 📁 Project Structure
 
 ```
-/node-api-starter
+/node-starter
 ├── config/
 ├── controllers/
 ├── middlewares/
