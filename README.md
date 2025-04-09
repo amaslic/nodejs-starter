@@ -83,14 +83,6 @@ Refer to `.env` example included in the project.
 
 ---
 
-## 🧩 Next Steps
-
-- Add role-based access
-- Refresh tokens
-- Swagger/OpenAPI docs
-
----
-
 ## 🤝 License
 
 MIT
